@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🍻 关于我
+  
+  长期在windows平台进行逆向工程和开发 日常使用c/c++ c# python和powershell  偶尔会使用golang rust dlang lua 对安全攻防对抗感兴趣
+  
 - 🤔 xxx项目何时更新? 会添加新功能吗? 
 
   所有项目源于我对技术的热情 纯粹用爱发电 如果你需要我对某项目持续更新 请... 
