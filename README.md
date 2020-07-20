@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🤔 xxx项目何时更新? 会添加新功能吗? 
+
+  所有项目源于我对技术热情，纯粹用爱发电，如果你需要我对某项目持续更新 请... 
+
+- 💬 如何联系我?
+
+  邮件`stonedreamforest@outlook.com` 回复周期一般在2周内
+
+
 
 <!--
 **stonedreamforest/stonedreamforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
