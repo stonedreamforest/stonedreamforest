@@ -3,7 +3,8 @@
 ### Hi there 👋
 - 🍻 关于我
   
-  长期在windows平台进行逆向工程和开发 日常使用c/c++ c# python和powershell  偶尔会使用golang rust dlang lua 对安全攻防对抗感兴趣
+  长期在windows平台进行逆向工程和开发 日常使用c/c++ c# python和powershell  偶尔会使用golang rust dlang lua 
+  > #游戏安全 #驱动 #内核 #反外挂 #病毒分析 #anti-cheat #anti cheat #malware-analyst #malware analyst #kernel #cpp 
   
 - 😋 xxx项目何时更新? 会添加新功能吗? 
 
